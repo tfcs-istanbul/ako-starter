@@ -1,5 +1,11 @@
 # create-ako-app
 
+## 0.3.3
+
+### Patch Changes
+
+- 36e9025: mari-ui 0.6.4: üretilen projeler `@mari-ui/*` paketlerinin 0.6.4 sürümüyle kurulur.
+
 ## 0.3.2
 
 ### Patch Changes
